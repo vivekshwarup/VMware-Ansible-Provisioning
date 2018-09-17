@@ -1,0 +1,8 @@
+---
+
+# VCenter Stuff
+vcenter_username: administrator@vsphere.loca
+validate_certs: false
+vcenter_host: 192.168.11.22
+datacenter: KernelSphere
+datastore: datastore1
